@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Patrick Foo
+- 👋 Hi, I’m @Patrick Foo (pat)
 - 👀 I’m interested in tech gadgets
 - 🌱 I’m currently learning everything related to equipment design
 - 💞️ I’m looking to collaborate on Seagate EDE
