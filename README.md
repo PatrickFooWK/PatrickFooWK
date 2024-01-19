@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech gadgets
 - 🌱 I’m currently learning everything related to equipment design
 - 💞️ I’m looking to collaborate on Seagate EDE
-- 📫 How to reach me +65 6412-4777
+- 📫 How to reach me +65 9863-8114
 
 <!---
 PatrickFooWK/PatrickFooWK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
